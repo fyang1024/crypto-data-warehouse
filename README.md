@@ -10,6 +10,7 @@ Infomation about crypto is scattered on official website, twitter, github, teleg
 1. Classification. Although there are thousands of cryptocurrencies and tokens, they can be classified into groups. E.g., currencies such as BTC, Zcash, platform tokens such as ETH, NEO, application tokens such as SNT, Steem. 
 2. Comparison. Once classified into groups, cryptos can be compared against each other within the same group. They are compared by features collected in the data warehouse. The **features** can be github code updates, github code forks, github code stars, twitter followers, telegram group members, etc.
 3. Search. Cryptos can be searched by all the aspects, such as code, name, team members, etc.
+
 **feature** feature data should be collected over time and form a time series so that we can see how the features change over time. This is very important as we need to identify trend to answer "does it become better or worse", which is very important to an investment decision.
 
 ## How?
