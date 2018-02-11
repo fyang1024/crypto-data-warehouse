@@ -2,7 +2,7 @@
 
 ## Why?
 
-Crypto world is exploding. There are thousands fo cryptocurrency and tokens on the market now, and more are coming.
+Crypto world is exploding. There are thousands of cryptocurrency and tokens on the market now, and more are coming.
 Infomation about crypto is scattered on official website, twitter, github, telegram group, slack channel, youtube channel, wechat groups, news site, crypto forums, ico rating site, etc. It's overwhelming if you are a serious investor. It's time to organise those info to save investors' precious time.
 
 ## What?
