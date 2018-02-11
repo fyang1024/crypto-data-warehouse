@@ -29,7 +29,7 @@ Infomation about crypto is scattered on official website, twitter, github, teleg
 9. https://etherscan.io/
 10. https://www.smithandcrown.com/icos/
 11. https://www.coinmarketcap.com
-...
+12. ...
 
 ## data to capture
 1. crypto/token name
@@ -44,4 +44,4 @@ Infomation about crypto is scattered on official website, twitter, github, teleg
 10. medium posts
 11. team members
 12. whitepaper text
-...
+13. ...
