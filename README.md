@@ -30,7 +30,8 @@ Infomation about crypto is scattered on official website, twitter, github, teleg
 9. https://etherscan.io/
 10. https://www.smithandcrown.com/icos/
 11. https://www.coinmarketcap.com
-12. ...
+12. https://cryptopanic.com/
+13. https://coinmetrics.io/
 
 ## data to capture
 1. crypto/token name
