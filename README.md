@@ -18,6 +18,13 @@ Infomation about crypto is scattered on official website, twitter, github, teleg
 1. Centralised. Just like Google, we write code to actively collect the data from the internet. Fortunately the data source such as github, twitter provides standard APIs which make the data collection easier than web crawling. 
 2. Decentralised. We build a platform so that data providers and data validators feed the platform with quality data to get reward and data consumers pay to consume the data.
 
+## Metrics Evaluation:
+From LOOM/ENJ price trend (Apr 2018- May 2019), we can see technology/DEV is not the primary factor of price fluctuation, instead price is driven by hype/FOMO largely.
+
+Institution money: short term (say before 2012), they are important and feels like the primary cause of price change
+( So possible to use things like Grayscale Bitcoin Trust reports)
+
+
 ## data sources
 1. github
 2. linkedIn
@@ -32,7 +39,7 @@ Infomation about crypto is scattered on official website, twitter, github, teleg
 11. https://www.coinmarketcap.com
 12. https://cryptopanic.com/
 13. https://coinmetrics.io/
-Other candidates: bitdb.network; coinbase bulletin; https://dappradar.com; Bitcointalk之后是谁- 用correlation来检测
+Other candidates: bitdb.network; coinbase bulletin; https://dappradar.com; Bitcointalk之后是谁- 用correlation来检测, Grayscale
 
 ## data to capture
 1. crypto/token name
