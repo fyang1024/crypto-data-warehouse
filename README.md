@@ -32,6 +32,7 @@ Infomation about crypto is scattered on official website, twitter, github, teleg
 11. https://www.coinmarketcap.com
 12. https://cryptopanic.com/
 13. https://coinmetrics.io/
+Other candidates: bitdb.network; coinbase bulletin; https://dappradar.com; Bitcointalk之后是谁- 用correlation来检测
 
 ## data to capture
 1. crypto/token name
@@ -47,3 +48,4 @@ Infomation about crypto is scattered on official website, twitter, github, teleg
 11. team members
 12. whitepaper text
 13. ...
+Other candidates: 交易所差价index; 跑路指数( lCO contract In/out token,time domain purchased/expiry)
