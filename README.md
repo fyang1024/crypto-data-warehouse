@@ -56,3 +56,6 @@ Other candidates: bitdb.network; coinbase bulletin; https://dappradar.com; Bitco
 12. whitepaper text
 13. ...
 Other candidates: 交易所差价index; 跑路指数( lCO contract In/out token,time domain purchased/expiry)
+
+## possible filtering strategy and free lab
+[Benjamin Graham's idea into free Paper Trading](https://medium.com/automation-generation/teaching-your-computer-to-invest-with-python-commission-free-automated-investing-5ade10961e08)  on Alpaca platform
